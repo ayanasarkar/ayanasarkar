@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=250&section=header&text=HUNTING%20BUGS&fontSize=70&fontAlign=50&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Data%20Systems&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=33E1ED&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Microservices;Automating+Chaos+with+Python;Tuning+Queries+Nobody+Else+Will+Touch;Chasing+Ghosts+Through+Distributed+Systems;Shipping+Containers%2C+Not+Just+Code" alt="Typing SVG" />
 </div>
