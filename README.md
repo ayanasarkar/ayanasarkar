@@ -1,10 +1,11 @@
 <div align="center">
-  <!-- GitHub-hosted Proxy-Safe Cyber/Matrix Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac5d-ee8bc8259d81.gif" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #E01010;" alt="System Breach Banner"/>
+  <!-- Proxy-Safe Red Matrix / Glitch Banner -->
+  <img src="https://i.pinimg.com/originals/2b/3b/b3/2b3bb37cb96fcb498f828a2a719ee37b.gif" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #E01010;" alt="System Breach Banner"/>
 </div>
 
 <div align="center">
-  <h1><kbd>&nbsp;₲ⱧØ₴₮_ⱧɄ₦₮ɆⱤ&nbsp;</kbd></h1>
+  <!-- MASSIVE Ghost Hunter Title -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E01010&text=₲ⱧØ₴₮_ⱧɄ₦₮ɆⱤ&fontSize=90&fontAlign=50&fontAlignY=50" alt="GHOST HUNTER"/>
   <h3><code>[ SYSTEM_OVERRIDE // ROOT_ACCESS_GRANTED ]</code></h3>
 </div>
 
@@ -13,7 +14,6 @@
 </div>
 
 <div align="center">
-  <!-- Fixed Badge Link with &ext=svg to bypass camo caching -->
   <a href="https://github.com/ayanasarkar">
     <img src="https://komarev.com/ghpvc/?username=ayanasarkar&label=SYS.ACCESS_LOGS&color=E01010&labelColor=000000&style=for-the-badge&ext=svg" alt="Profile Views"/>
   </a>
@@ -32,8 +32,8 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <!-- Highly stable GitHub-hosted animation -->
-      <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="300" style="border: 2px solid #E01010; border-radius: 5px;" alt="Live System Scan GIF" />
+      <!-- HARDCORE Spinning Red Cyber-Skull GIF -->
+      <img src="https://i.pinimg.com/originals/d4/0b/d9/d40bd9dbb5b91b8d69f06fc3869273c3.gif" width="300" style="border: 2px solid #E01010; border-radius: 5px;" alt="Live System Scan GIF" />
       <br><br>
       <code>[>_ CORE_MEMORY_DUMP.EXE]</code>
     </td>
@@ -78,27 +78,29 @@
 </div>
 
 <div align="center">
-  <!-- Stats cards with transparent backgrounds to blend directly into GitHub dark mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanasarkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=E01010&icon_color=E01010&text_color=FFFFFF" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanasarkar&layout=compact&hide_border=true&bg_color=00000000&title_color=E01010&text_color=FFFFFF&langs_count=6" height="170" alt="Top Languages" />
+  <!-- Cache busted stats cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanasarkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=E01010&icon_color=E01010&text_color=FFFFFF&v=2" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanasarkar&layout=compact&hide_border=true&bg_color=00000000&title_color=E01010&text_color=FFFFFF&langs_count=6&v=2" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayanasarkar&hide_border=true&background=00000000&ring=E01010&fire=E01010&currStreakLabel=E01010&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ayanasarkar&hide_border=true&background=00000000&ring=E01010&fire=E01010&currStreakLabel=E01010&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&v=2" alt="GitHub Streak" height="170"/>
 </div>
 
 <br><br>
 
 <div align="center">
   <h3 style="color: #E01010;"><code>// CONTRIBUTION_CHAOS_MATRIX</code></h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanasarkar&bg_color=00000000&color=FFFFFF&line=E01010&point=FFFFFF&area=true&area_color=330000&hide_border=true" width="95%" alt="Activity Graph"/>
+  <!-- Forced load cache-bust -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanasarkar&bg_color=0D1117&color=FFFFFF&line=E01010&point=FFFFFF&area=true&area_color=330000&hide_border=true&v=2" width="95%" alt="Activity Graph"/>
 </div>
 
 <br><br>
 
 <div align="center">
   <h3 style="color: #E01010;"><code>// THREAT_LEVEL_ACHIEVEMENTS</code></h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanasarkar&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
+  <!-- Forced load cache-bust -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ayanasarkar&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10&v=2" alt="Trophies"/>
 </div>
 
 <div align="center">
