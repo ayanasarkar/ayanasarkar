@@ -1,114 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=250&section=header&text=HUNTING%20BUGS&fontSize=70&fontAlign=50&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Data%20Systems&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=33E1ED&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Microservices;Automating+Chaos+with+Python;Tuning+Queries+Nobody+Else+Will+Touch;Chasing+Ghosts+Through+Distributed+Systems;Shipping+Containers%2C+Not+Just+Code" alt="Typing SVG" />
+  <!-- Ultra-wide Glitch/Cyberpunk Banner -->
+  <img src="https://media.tenor.com/JjKzP0aVf1sAAAAC/glitch-error.gif" width="100%" height="200" style="object-fit: cover;" alt="System Breach Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghosthouse7&label=Profile%20Views&color=7000FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/status-hunting_bugs-00C9FF?style=for-the-badge" alt="status"/>
+  <h1><kbd>&nbsp;₲ⱧØ₴₮_ⱧɄ₦₮ɆⱤ&nbsp;</kbd></h1>
+  <h3><code>[ SYSTEM_OVERRIDE // ROOT_ACCESS_GRANTED ]</code></h3>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
-</div>
-
-### <div align="center">👻 **About the Hunt**</div>
-
-<div align="center">
-
-🔭&nbsp; Building backend systems and data pipelines that don't fall over at 3&nbsp;AM
-<br/>
-🌱&nbsp; Deepening my grip on distributed systems and cloud-native architecture
-<br/>
-👻&nbsp; Hunting bugs, memory leaks, and slow queries — the ghosts in every machine
-<br/>
-💬&nbsp; Ask me about Go, Python, SQL tuning, or why your pod keeps restarting
-
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=22&duration=2000&pause=500&color=E01010&center=true&vCenter=true&width=800&lines=%5B%3E_%5D+INITIALIZING+DATA+ANARCHY...;ARCHITECTING+CHAOS+IN+DISTRIBUTED+SYSTEMS;TUNING+QUERIES+NOBODY+ELSE+WILL+TOUCH;CHASING+GHOSTS+IN+THE+MACHINE;SHIPPING+CONTAINERS%2C+NOT+JUST+CODE" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
+  <a href="https://github.com/ayanasarkar">
+    <img src="https://komarev.com/ghpvc/?username=ayanasarkar&label=SYS.ACCESS_LOGS&color=E01010&labelColor=000000&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-CRITICAL-000000?style=for-the-badge&color=E01010&logo=kalilinux&logoColor=E01010" alt="status"/>
 </div>
 
-### <div align="center">🛠️ **The Arsenal**</div>
+<br>
 
 <div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br/><br/>
-
-**Infrastructure & Tooling**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E01010&height=2" width="100%"/>
 </div>
 
+<br>
+
+<!-- TERMINAL HUD DASHBOARD -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <!-- High-Quality Tech/Radar GIF -->
+      <img src="https://media.giphy.com/media/26tn33aiTi1jVDzO0/giphy.gif" width="350" style="border: 2px solid #E01010;" alt="Live System Scan GIF" />
+      <br><br>
+      <code>[>_ CORE_MEMORY_DUMP.EXE]</code>
+    </td>
+    <td width="55%" align="left" valign="middle">
+      <h3 style="color: #E01010;"><code>// NEURAL_LINK_ESTABLISHED</code></h3>
+      <div style="font-family: 'Courier New', monospace; font-size: 14px;">
+        <p>🔴 <code>0x7FFF8B9A</code> <b>[SYS.TASK]:</b> Building robust backend architectures & brutal data pipelines.</p>
+        <p>🔴 <code>0x7FFF8B9E</code> <b>[UPLOAD]:</b> Mastering distributed systems & cloud-native tech.</p>
+        <p>🔴 <code>0x7FFF8BA2</code> <b>[DEBUG]:</b> Hunting memory leaks and slaughtering slow queries.</p>
+        <p>🔴 <code>0x7FFF8BA6</code> <b>[PING]:</b> Ping me on Go, Python, SQL tuning, or K8s failures.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E01010&height=2" width="100%"/>
 </div>
 
-### <div align="center">🏆 **Certifications & Badges**</div>
+<br>
 
 <div align="center">
-
-  <p>
-    <a href="YOUR_CREDENTIAL_LINK_HERE">
-      <img width="200" alt="certified-meshery-contributor" src="https://github.com/user-attachments/assets/d4f4f684-4577-47ea-9bb0-a2889ae53671" />
-    </a>
-    <img width="200"  alt="image" src="https://github.com/user-attachments/assets/2085b06f-6af6-4c43-b3ce-d77a42679230" />
-     </a>
-    <!-- You can drop more badges right here in the future -->
-  </p>
-
+  <h3 style="color: #E01010;"><code>// CYBER_ARSENAL // LOADED_MODULES</code></h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,postgres,bash,c,cpp,docker,kubernetes,linux,aws,gcp,nginx&theme=dark&perline=6" alt="Tech Stack"/>
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E01010&height=2" width="100%"/>
 </div>
 
-### <div align="center">📊 **Live Telemetry**</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghosthouse7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7000FF&text_color=c9d1d9" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanasarkar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&langs_count=6" height="170" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayanasarkar&hide_border=true&background=0D1117&ring=00C9FF&fire=7000FF&currStreakLabel=00C9FF&sideLabels=7000FF&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanasarkar&bg_color=0D1117&color=c9d1d9&line=00C9FF&point=7000FF&area=true&area_color=7000FF&hide_border=true" width="95%" alt="activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanasarkar&theme=dracula&no-frame=true&column=4&margin-w=8&margin-h=8" alt="trophies"/>
+  <h3 style="color: #E01010;"><code>// TELEMETRY_DISTORTION_FEED</code></h3>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,30,255;7000FF,00C9FF&height=3" width="100%"/>
+  <!-- Stats cards with transparent backgrounds to blend directly into GitHub dark mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanasarkar&show_icons=true&hide_border=true&bg_color=00000000&title_color=E01010&icon_color=E01010&text_color=FFFFFF" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanasarkar&layout=compact&hide_border=true&bg_color=00000000&title_color=E01010&text_color=FFFFFF&langs_count=6" height="170" alt="Top Languages" />
 </div>
 
-### <div align="center">🐍 **The Hunt Continues**</div>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ghosthouse7/ghosthouse7/main/snake-dark.svg#gh-dark-mode-only" alt="snake animation" width="100%"/>
-  <img src="https://raw.githubusercontent.com/ghosthouse7/ghosthouse7/main/snake.svg#gh-light-mode-only" alt="snake animation" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=ayanasarkar&hide_border=true&background=00000000&ring=E01010&fire=E01010&currStreakLabel=E01010&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="170"/>
 </div>
 
-<br/>
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,255;00C9FF,7000FF&height=100&section=footer&animation=fadeIn&reversed=true" width="100%"/>
+  <h3 style="color: #E01010;"><code>// CONTRIBUTION_CHAOS_MATRIX</code></h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanasarkar&bg_color=00000000&color=FFFFFF&line=E01010&point=FFFFFF&area=true&area_color=330000&hide_border=true" width="95%" alt="Activity Graph"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3 style="color: #E01010;"><code>// THREAT_LEVEL_ACHIEVEMENTS</code></h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayanasarkar&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <br>
+  <!-- Final Glitch Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E01010&height=2" width="100%"/>
+  <br>
+  <code>[>_ CONNECTION_TERMINATED...]</code>
 </div>
