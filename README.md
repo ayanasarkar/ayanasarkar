@@ -5,6 +5,7 @@
   
 </div>
 
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=22&duration=2000&pause=500&color=E01010&center=true&vCenter=true&width=800&lines=%5B%3E_%5D+INITIALIZING+DATA+ANARCHY...;ARCHITECTING+CHAOS+IN+DISTRIBUTED+SYSTEMS;TUNING+QUERIES+NOBODY+ELSE+WILL+TOUCH;CHASING+GHOSTS+IN+THE+MACHINE;SHIPPING+CONTAINERS%2C+NOT+JUST+CODE" alt="Typing SVG" />
 </div>
