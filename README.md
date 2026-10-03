@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E01010&text=₲ⱧØ₴₮_ⱧɄ₦₮ɆⱤ&fontSize=90&fontAlign=50&fontAlignY=50" alt="GHOST HUNTER"/>
   <h3><code>[ SYSTEM_OVERRIDE // ROOT_ACCESS_GRANTED ]</code></h3>
